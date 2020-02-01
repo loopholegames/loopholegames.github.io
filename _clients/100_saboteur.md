@@ -1,4 +1,5 @@
 ---
+title: The Saboteur
 name: The Saboteur
 subtitle: PC, PS3, Xbox 360
 external_url: https://www.origin.com/usa/en-us/store/saboteur/the-saboteur
