@@ -15,3 +15,4 @@ Released by Pandemic Studios and Electronic Arts in 2008.
 * Worked with Wwise SDK for implementing audio systems
 * Helped implement audio streaming over PS3 memory bus
 * Implememented various gameplay features such as creature behaviors
+
