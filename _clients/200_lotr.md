@@ -1,12 +1,10 @@
 ---
-title: The Saboteur
-name: The Saboteur
+title: The Lord of the Rings Conquest
+name: The Lord of the Rings Conquest
 subtitle: PC, PS3, Xbox 360
-external_url: https://www.origin.com/usa/en-us/store/saboteur/the-saboteur
-image_path: /images/clients/saboteur.jpg
+external_url: https://www.ea.com/games/lord-of-the-rings/the-lord-of-the-rings-conquest
+image_path: /images/clients/lotr.jpg
 ---
-
-Released by Pandemic Studios and Electronic Arts in 2009.
 
 Released by Pandemic Studios and Electronic Arts in 2008.
 
