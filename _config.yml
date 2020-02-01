@@ -16,11 +16,10 @@ author:
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Urban Template
+  name: Loophole Games
   links:
-    - https://github.com/CloudCannon/urban-jekyll-template
 
-timezone: Etc/UTC
+timezone: America/Los_Angeles
 
 collections:
   staff_members:
@@ -90,11 +89,11 @@ defaults:
 # CloudCannon
 
 social_icons:
-  - Facebook
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
-  - RSS
+#  - Facebook
+#  - Instagram
+#  - LinkedIn
+#  - Pinterest
+#  - Tumblr
+#  - Twitter
+#  - YouTube
+#  - RSS
